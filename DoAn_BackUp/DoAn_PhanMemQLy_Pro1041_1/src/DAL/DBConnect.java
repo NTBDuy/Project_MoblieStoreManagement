@@ -17,7 +17,7 @@ public class DBConnect {
     private static String driver="com.microsoft.sqlserver.jdbc.SQLServerDriver";
     private static String dburl="jdbc:sqlserver://localhost:1433;database=DoAn_PRO1041";
     private static String username="sa";
-    private static String password="yourStrong(!)Password";
+    private static String password="P@ssword123";
     
     public DBConnect(){
         try {
